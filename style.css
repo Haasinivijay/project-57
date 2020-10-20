@@ -1,0 +1,14 @@
+body{
+    text-decoration-color: #000000;
+    text-align: center;
+    background: linear-gradient( #ff039e 0%,#18ff03 100%);
+    
+}
+img{
+    border-radius: 10%;
+}
+
+h1,h2,h3{
+    font-family: 'Piedra', cursive;
+}
+    
